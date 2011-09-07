@@ -1,3 +1,7 @@
+<javascripts>
+	<js>
+		<name></name>
+		<code><![CDATA[
 var NUM_IMAGE = 2;
 var imagesValue = null;
 
@@ -52,3 +56,9 @@ function getImage(id){
 	})
 	return image;
 }
+		]]></code>
+
+	</js>
+
+
+</javascripts>

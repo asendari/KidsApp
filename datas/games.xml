@@ -1,0 +1,15 @@
+<games>
+	<game>
+		<name>Numbers</name>
+		<id>numbers</id>
+		<version>1</version>
+		<resources>
+			<images>
+				<url>numbers/datas/images.xml</url>
+			</images>
+			<javascripts>
+				<url>numbers/data/js.xml</url>
+			</javascripts>
+		</resources>
+	</game>
+</games>
